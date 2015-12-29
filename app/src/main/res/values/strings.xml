@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contatos</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Detalhes Contato</string>
+    <string name="title_activity_detalhes_contato">DetalhesContato</string>
+    <string name="label_name">Nome:</string>
+    <string name="label_surname">Sobrenome:</string>
+    <string name="label_age">Idade:</string>
+    <string name="label_phoneNumber">Tel:</string>
+</resources>
